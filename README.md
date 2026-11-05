@@ -9,7 +9,7 @@ park4u is a mobile app idea from our school days: cameras watch parking spaces, 
 ## ▶️ Try it
 
 - **Online:** turn on GitHub Pages (see below), then open `https://ryuma33.github.io/park4u/`
-- **On your computer:** download the project and double-click `index.html`. No installation needed.
+- **On your computer:** download the project and double-click `park4u.html`. No installation needed.
 - **On your phone:** open the GitHub Pages link. In Safari you can tap **Share → Add to Home Screen** to use it like a real app.
 
 ## ✨ Features
