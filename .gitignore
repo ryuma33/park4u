@@ -1,0 +1,21 @@
+# Original demo video/audio (large files, kept on the local computer only)
+*.mp4
+*.MP4
+*.mp3
+*.MP3
+
+# Frames pulled out of the video by tools/extract_frames.py (can be recreated)
+frames/
+screens/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
